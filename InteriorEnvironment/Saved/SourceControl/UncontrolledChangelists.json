@@ -8,12 +8,14 @@
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_Door.uasset",
-				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_FirstDoor.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_InteriorDoor.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_ExteriorDoor.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_TestRed.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_TestBlue.uasset",
-				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_TestGreen.uasset"
+				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_TestGreen.uasset",
+				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_TestGlass.uasset",
+				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Materials/M_Invisible.uasset",
+				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_FirstDoor.uasset"
 			]
 		}
 	]
