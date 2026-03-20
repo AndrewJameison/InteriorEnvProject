@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects (D)/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_ExteriorDoor.uasset",
+				"D:/Unreal Projects (D)/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_InteriorDoor.uasset",
+				"D:/Unreal Projects (D)/InteriorEnvProject/InteriorEnvironment/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Content/Blueprints/BP_Door.uasset",
