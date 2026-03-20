@@ -1,2 +1,39 @@
-2026/03/18-14:12:27.199 3d58 Creating DB C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/03/18-14:12:27.208 3d58 Reusing MANIFEST C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-15:51:13.741 b9c Reusing MANIFEST C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-15:51:13.742 b9c Recovering log #3
+2026/03/20-15:51:13.742 b9c Reusing old log C:/Users/arj5881/Documents/GitHub/InteriorEnvProject/InteriorEnvironment/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/03/20-16:03:14.552 3a34 Level-0 table #5: started
+2026/03/20-16:03:14.555 3a34 Level-0 table #5: 62672 bytes OK
+2026/03/20-16:03:14.558 3a34 Delete type=0 #3
+2026/03/20-16:08:15.206 693c Level-0 table #7: started
+2026/03/20-16:08:15.208 693c Level-0 table #7: 71817 bytes OK
+2026/03/20-16:08:15.211 693c Delete type=0 #4
+2026/03/20-16:12:15.216 5a34 Level-0 table #9: started
+2026/03/20-16:12:15.220 5a34 Level-0 table #9: 64485 bytes OK
+2026/03/20-16:12:15.223 5a34 Delete type=0 #6
+2026/03/20-16:18:05.239 2378 Level-0 table #11: started
+2026/03/20-16:18:05.241 2378 Level-0 table #11: 80134 bytes OK
+2026/03/20-16:18:05.244 2378 Delete type=0 #8
+2026/03/20-16:19:15.216 6fa4 Level-0 table #13: started
+2026/03/20-16:19:15.218 6fa4 Level-0 table #13: 67050 bytes OK
+2026/03/20-16:19:15.221 6fa4 Delete type=0 #10
+2026/03/20-16:22:15.220 56a4 Level-0 table #15: started
+2026/03/20-16:22:15.223 56a4 Level-0 table #15: 71422 bytes OK
+2026/03/20-16:22:15.226 56a4 Delete type=0 #12
+2026/03/20-16:22:15.226 56a4 Compacting 4@0 + 1@1 files
+2026/03/20-16:22:15.228 56a4 Generated table #16@0: 4 keys, 25238 bytes
+2026/03/20-16:22:15.228 56a4 Compacted 4@0 + 1@1 files => 25238 bytes
+2026/03/20-16:22:15.230 56a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/20-16:22:15.230 56a4 Delete type=2 #7
+2026/03/20-16:22:15.230 56a4 Delete type=2 #9
+2026/03/20-16:22:15.230 56a4 Delete type=2 #11
+2026/03/20-16:22:15.230 56a4 Delete type=2 #13
+2026/03/20-16:22:15.230 56a4 Delete type=2 #15
+2026/03/20-16:25:15.210 300c Level-0 table #18: started
+2026/03/20-16:25:15.212 300c Level-0 table #18: 77625 bytes OK
+2026/03/20-16:25:15.215 300c Delete type=0 #14
+2026/03/20-16:28:15.219 6ecc Level-0 table #20: started
+2026/03/20-16:28:15.222 6ecc Level-0 table #20: 77607 bytes OK
+2026/03/20-16:28:15.223 6ecc Delete type=0 #17
+2026/03/20-16:31:15.216 6f08 Level-0 table #22: started
+2026/03/20-16:31:15.218 6f08 Level-0 table #22: 77606 bytes OK
+2026/03/20-16:31:15.220 6f08 Delete type=0 #19
